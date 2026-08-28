@@ -10,7 +10,7 @@ Pipe Bomb exists in two parts: a server and a client. To get started, spin up a 
 
 ### This easy way
 
-Use the [https://github.com/Pipe-Bomb/docker](Docker Compose) file to get your own Pipe Bomb up and running with a single command.
+Use the [Docker Compose](https://github.com/Pipe-Bomb/docker) file to get your own Pipe Bomb up and running with a single command.
 
 ## Community
 
