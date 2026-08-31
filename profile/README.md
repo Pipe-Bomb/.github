@@ -6,7 +6,7 @@ Pipe Bomb is a powerful music management server and client featuring a rich suit
 
 ## Getting Started
 
-Pipe Bomb exists in two parts: a server and a client. To get started, spin up a [Pipe Bomb server](https://github.com/pipe-bomb/server) and access it using a supported client. We recommend the official [Pipe Bomb frontend](https://github.com/pipe-bomb/website).
+Pipe Bomb exists in two parts: a server and a client. To get started, spin up a [Pipe Bomb server](https://github.com/pipe-bomb/server) and access it using a supported client. We recommend the official [Pipe Bomb frontend](https://github.com/pipe-bomb/frontend).
 
 ### This easy way
 
